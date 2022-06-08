@@ -1,3 +1,3 @@
 # first-day-demo
 
-my first github p
+my first github push
